@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Computing MEng student at Imperial College London
+
 <!--
 **mithun-sri/mithun-sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
